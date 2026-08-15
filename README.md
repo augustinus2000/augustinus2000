@@ -45,14 +45,16 @@ Before starting my master's studies, I conducted research in computer vision and
 ## 🎓 Education
 
 ### Kyungpook National University
-**M.S. in Electronic & Electrical Engineering**  
+**M.S. in Electronic & Electrical Engineering**\  
+**2026 – Present**
+
 Graduate School of Electronic & Electrical Engineering  
 Architecture & Compiler for Embedded Systems Lab. (ACE Lab.)  
 
-**2026 – Present**
+
 
 ### Pukyong National University
-**B.S. in Electronic Engineering**
+**B.S. in Electronic Engineering**\
 **2019 – 2026**
 
 - Research experience at the **Image & Vision Computing Lab.**
