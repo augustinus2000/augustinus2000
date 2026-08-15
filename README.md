@@ -50,8 +50,7 @@ Before starting my master's studies, I conducted undergraduate research in compu
 **Sep. 2026 – Present**
 
 Graduate School of Electronic & Electrical Engineering <br>
-Architecture & Compiler for Embedded Systems Lab. (ACE Lab)
-<br>
+Architecture & Compiler for Embedded Systems Lab. (ACE Lab)<br>
 
 ### Pukyong National University
 
