@@ -52,6 +52,7 @@ Architecture & Compiler for Embedded Systems Lab. (ACE Lab.)
 
 ### Pukyong National University
 **B.S. in Electronic Engineering**
+**2019 – 2026**
 
 - Research experience at the **Image & Vision Computing Lab.**
 - Research focus: Computer Vision and Image Anomaly Detection
@@ -71,6 +72,7 @@ Conducted undergraduate research in **computer vision and image anomaly detectio
 - Research leading to the publication of **VCP-CLIP+**
 
 ### 🏥 S-ONE BIO Corp.
+**2025/11 – 2026/01**
 
 Worked on a computer vision system for medical image analysis.
 
