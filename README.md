@@ -87,6 +87,16 @@ Worked on a computer vision system for medical image analysis.
 
 ## 📚 Publications
 
+### Toward Efficient Memory Bank-Based Anomaly Detection via Lightweight Backbone Adaptation
+
+**Junhyeok Im**, Jeonghun Cho <br>
+*2026 IEEE 15th Global Conference on Consumer Electronics (GCCE)* <br>
+**Accepted — Oral Presentation**
+
+> An investigation of lightweight backbone adaptation for memory bank-based anomaly detection, exploring the accuracy-efficiency trade-off when replacing a conventional heavy backbone with MobileNetV3-Small.
+
+---
+
 ### VCP-CLIP+: Stabilizing and Optimizing VCP-CLIP with Minimal Architectural Changes
 
 **Junhyeok Im**, Hanhoon Park <br>
@@ -96,16 +106,6 @@ Worked on a computer vision system for medical image analysis.
 
 [![Paper](https://img.shields.io/badge/Paper-MDPI-00843D)](https://doi.org/10.3390/electronics15102058)
 [![Repository](https://img.shields.io/badge/Code-VCP--CLIP+-181717?logo=github)](https://github.com/augustinus2000/VCP-CLIP-plus)
-
----
-
-### Toward Efficient Memory Bank-Based Anomaly Detection via Lightweight Backbone Adaptation
-
-**Junhyeok Im**, Jeonghun Cho <br>
-*2026 IEEE 15th Global Conference on Consumer Electronics (GCCE)* <br>
-**Accepted — Oral Presentation**
-
-> An investigation of lightweight backbone adaptation for memory bank-based anomaly detection, exploring the accuracy-efficiency trade-off when replacing a conventional heavy backbone with MobileNetV3-Small.
 
 ---
 
