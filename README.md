@@ -46,7 +46,7 @@ Before starting my master's studies, I conducted research in computer vision and
 
 ### Kyungpook National University
 **M.S. in Electronic & Electrical Engineering**
-**2026 – Present**
+(**2026/09 – Present**)
 
 Graduate School of Electronic & Electrical Engineering  
 Architecture & Compiler for Embedded Systems Lab. (ACE Lab.)  
@@ -55,7 +55,7 @@ Architecture & Compiler for Embedded Systems Lab. (ACE Lab.)
 
 ### Pukyong National University
 **B.S. in Electronic Engineering**
-**2019 – 2026**
+(**2019/03 – 2026/02**)
 
 - Research experience at the **Image & Vision Computing Lab.**
 - Research focus: Computer Vision and Image Anomaly Detection
