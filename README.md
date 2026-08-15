@@ -202,6 +202,7 @@ An Android application that transforms written diary entries into AI-generated i
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ### Development Tools
