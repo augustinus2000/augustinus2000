@@ -44,7 +44,7 @@ Before starting my master's studies, I conducted undergraduate research in compu
 
 ## 🎓 Education
 
-### Kyungpook National University
+### 🎓Kyungpook National University
 
 **M.S. in Electronic & Electrical Engineering** <br>
 **Sep. 2026 – Present**
@@ -52,7 +52,7 @@ Before starting my master's studies, I conducted undergraduate research in compu
 Graduate School of Electronic & Electrical Engineering <br>
 Architecture & Compiler for Embedded Systems Lab. (ACE Lab)<br>
 
-### Pukyong National University
+### 🎓Pukyong National University
 
 **B.S. in Electronic Engineering** <br>
 **Mar. 2019 – Feb. 2026**
