@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Junhyeok Im
+# 👋 Hi, I'm Junhyeok 
 
 ### M.S. Student in Electronic & Electrical Engineering
 
