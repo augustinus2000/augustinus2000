@@ -48,6 +48,7 @@ Before starting my master's studies, I conducted research in computer vision and
 **M.S. in Electronic & Electrical Engineering**  
 Graduate School of Electronic & Electrical Engineering  
 Architecture & Compiler for Embedded Systems Lab. (ACE Lab.)  
+
 **2026 – Present**
 
 ### Pukyong National University
