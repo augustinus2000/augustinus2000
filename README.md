@@ -138,18 +138,6 @@ An Android diary application that transforms written diary entries into
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=augustinus2000&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augustinus2000&layout=compact&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### Researching efficient and practical computer vision systems.
