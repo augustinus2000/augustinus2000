@@ -72,6 +72,17 @@ Conducted undergraduate research in **computer vision and image anomaly detectio
 - Cross-dataset anomaly detection
 - Research leading to the publication of **VCP-CLIP+**
 
+### 🏥 S-ONE BIO Corp.
+
+**Computer Vision R&D | Nov. 2025 – Jan. 2026**
+
+Worked on a computer vision system for medical image analysis.
+
+- Developed an **ICG fluorescence image segmentation pipeline**
+- Applied **Segment Anything Model (SAM)** to ROI segmentation
+- Worked on preprocessing and segmentation of fluorescence patterns
+- Optimized model inference for practical deployment
+
 ### ⚙️ Architecture & Compiler for Embedded Systems Lab. (ACE Lab) — Kyungpook National University
 
 **Research Assistant | Apr. 2026 – Aug. 2026**
@@ -83,17 +94,6 @@ Conducting research and technical studies in efficient AI and computer vision fo
 - AUTOSAR and automotive software architecture
 - Computer vision technologies for automotive applications
 - Research leading to the acceptance of **Toward Efficient Memory Bank-Based Anomaly Detection via Lightweight Backbone Adaptation** at IEEE GCCE 2026 (Oral Presentation)
-
-### 🏥 S-ONE BIO Corp.
-
-**Computer Vision R&D | Nov. 2025 – Jan. 2026**
-
-Worked on a computer vision system for medical image analysis.
-
-- Developed an **ICG fluorescence image segmentation pipeline**
-- Applied **Segment Anything Model (SAM)** to ROI segmentation
-- Worked on preprocessing and segmentation of fluorescence patterns
-- Optimized model inference for practical deployment
 
 ---
 
