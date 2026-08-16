@@ -73,6 +73,8 @@ Conducting research and technical studies in efficient AI and computer vision fo
 - Research leading to the acceptance of **Toward Efficient Memory Bank-Based Anomaly Detection via Lightweight Backbone Adaptation** at IEEE GCCE 2026 (Oral Presentation)
 
 
+
+
 ### 🏥 S-ONE BIO Corp.
 
 **Computer Vision R&D | Nov. 2025 – Jan. 2026**
@@ -83,6 +85,8 @@ Worked on a computer vision system for medical image analysis.
 - Applied **Segment Anything Model (SAM)** to ROI segmentation
 - Worked on preprocessing and segmentation of fluorescence patterns
 - Optimized model inference for practical deployment
+
+
 
 
 ### 🔬 Image & Vision Computing Lab. — Pukyong National University
