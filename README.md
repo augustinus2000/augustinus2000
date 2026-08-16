@@ -61,6 +61,7 @@ Architecture & Compiler for Embedded Systems Lab. (ACE Lab)<br>
 
 ## 💼 Research & Industry Experience
 
+### ⚙️ Architecture & Compiler for Embedded Systems Lab. (ACE Lab) — Kyungpook National University
 **Research Assistant | Apr. 2026 – Aug. 2026**
 
 Conducting research and technical studies in efficient AI and computer vision for embedded and automotive systems, while    continuing independent research on image anomaly detection.
@@ -92,8 +93,6 @@ Conducted undergraduate research in **computer vision and image anomaly detectio
 - Vision-language model adaptation
 - Cross-dataset anomaly detection
 - Research leading to the publication of **VCP-CLIP+**
-
-### ⚙️ Architecture & Compiler for Embedded Systems Lab. (ACE Lab) — Kyungpook National University
 
 ---
 
