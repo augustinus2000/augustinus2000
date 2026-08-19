@@ -143,7 +143,7 @@ Soeun An, Gyeongheon Kim, Heeyoung Do, **Junhyeok Im**, Hanhoon Park <br>
 
 **Zero-Shot Anomaly Detection & Segmentation**
 
-Research on improving CLIP-based zero-shot anomaly detection without modifying the overall VCP-CLIP architecture.
+Research on improving CLIP-based zero-shot anomaly detection through simple architectural modifications to VCP-CLIP.
 
 **Highlights**
 
