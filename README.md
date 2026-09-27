@@ -67,7 +67,7 @@ Mar. 2019 – Feb. 2026
 
 ---
 
-### Intelligent Visual Computing Lab.  
+### Image & Vision Computing Laboratory  
 **Pukyong National University**
 
 **Undergraduate Researcher | Mar. 2024 – Feb. 2026**
