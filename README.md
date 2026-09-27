@@ -191,5 +191,3 @@ An assistive shopping cart developed to improve shopping accessibility for wheel
 **Anomaly Detection · Multimodal Learning · Efficient AI**
 
 </div>
-
-</div>
