@@ -1,21 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm Junhyeok 
+# 👋 Hi, I'm Junhyeok Im
 
-### M.S. Student in Electronic & Electrical Engineering
+### Computer Vision Researcher · M.S. Student
 
-**Architecture & Compiler for Embedded Systems Lab. (ACE Lab)** <br>
-**Kyungpook National University, Republic of Korea**
-
-<br>
-
-I am interested in **Computer Vision**, **Anomaly Detection**, and **Efficient AI**, <br>
-with a focus on developing practical and computationally efficient vision systems.
+**Visual Anomaly Detection · Vision-Language Models · Efficient AI**
 
 <br>
 
+[![Email](https://img.shields.io/badge/Email-imjun17%40naver.com-EA4335?logo=gmail&logoColor=white)](mailto:imjun17@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-augustinus2000-181717?logo=github&logoColor=white)](https://github.com/augustinus2000)
-[![ACE Lab](https://img.shields.io/badge/ACE_Lab-Kyungpook_National_University-005BAC)](http://ace.knu.ac.kr/)
 
 </div>
 
@@ -23,82 +17,74 @@ with a focus on developing practical and computationally efficient vision system
 
 ## 👨‍💻 About Me
 
-I am an M.S. student in the **Graduate School of Electronic & Electrical Engineering at Kyungpook National University**, working at the **Architecture & Compiler for Embedded Systems Lab. (ACE Lab)**.
+I am an M.S. student in Electronic and Electrical Engineering at **Kyungpook National University**.
 
-My primary research interests lie at the intersection of **computer vision and efficient AI**. In particular, I am interested in image anomaly detection, vision-language models, lightweight deep learning, and the practical deployment of vision models on resource-constrained systems.
+My research focuses on **computer vision**, particularly visual anomaly detection, vision-language models, and efficient AI. I am interested in developing visual and multimodal AI models that are computationally efficient, robust, and generalizable across different environments.
 
-Before starting my master's studies, I conducted undergraduate research in computer vision and anomaly detection at **Pukyong National University**, where I received my B.S. in Electronic Engineering.
+Before beginning my master's studies, I conducted undergraduate research at **Pukyong National University**, where I worked primarily on CLIP-based zero-shot anomaly detection and published **VCP-CLIP+** as a first-author paper.
 
 ---
 
 ## 🔬 Research Interests
 
-- 🔍 **Image Anomaly Detection & Segmentation**
-- 👁️ **Computer Vision**
-- 🧠 **Vision-Language Models**
-- ⚡ **Efficient & Lightweight Deep Learning**
-- 📱 **Edge AI & Embedded AI Systems**
-- 🛠️ **Model Optimization for Resource-Constrained Systems**
+- **Visual Anomaly Detection and Segmentation**
+- **Vision-Language Models and Multimodal Learning**
+- **Efficient and On-Device AI**
+- **Robust and Generalizable Computer Vision**
 
 ---
 
 ## 🎓 Education
 
-### 🎓Kyungpook National University
+### Kyungpook National University
 
-**M.S. in Electronic & Electrical Engineering** <br>
-**Sep. 2026 – Present**
+**M.S. Student in Electronic and Electrical Engineering**  
+Sep. 2026 – Present
 
-Graduate School of Electronic & Electrical Engineering <br>
-Architecture & Compiler for Embedded Systems Lab. (ACE Lab)<br>
+### Pukyong National University
 
-### 🎓Pukyong National University
-
-**B.S. in Electronic Engineering** <br>
-**Mar. 2019 – Feb. 2026**
+**B.S. in Electronics and Communications Engineering**  
+Mar. 2019 – Feb. 2026
 
 ---
 
 ## 💼 Research & Industry Experience
 
-### ⚙️ Architecture & Compiler for Embedded Systems Lab. (ACE Lab) — Kyungpook National University
-**Research Assistant | Apr. 2026 – Aug. 2026**
+### Architecture & Compiler for Embedded Systems Lab. (ACE Lab)  
+**Kyungpook National University**
 
-Conducting research and technical studies in efficient AI and computer vision for embedded and automotive systems, while    continuing independent research on image anomaly detection.
+#### Graduate Researcher / M.S. Student  
+**Sep. 2026 – Present**
 
-- Efficient and lightweight image anomaly detection for resource-constrained environments
-- Memory bank-based anomaly detection with lightweight backbone adaptation
-- AUTOSAR and automotive software architecture
-- Computer vision technologies for automotive applications
-- Research leading to the acceptance of **Toward Efficient Memory Bank-Based Anomaly Detection via Lightweight Backbone Adaptation** at IEEE GCCE 2026 (Oral Presentation)
+- Studying anomaly detection methods for detecting intrusion scenarios in automotive Ethernet environments.
 
+#### Research Intern  
+**Apr. 2026 – Aug. 2026**
 
+- Conducted research on lightweight visual anomaly detection for resource-constrained environments.
+- Led a first-author study on efficient memory bank-based anomaly detection, accepted for an oral presentation at **IEEE GCCE 2026**.
+- Explored visual anomaly detection using **MobileCLIP** and lightweight vision-language representations.
 
+---
 
-### 🏥 S-ONE BIO Corp.
-
-**Computer Vision R&D | Nov. 2025 – Jan. 2026**
-
-Worked on a computer vision system for medical image analysis.
-
-- Developed an **ICG fluorescence image segmentation pipeline**
-- Applied **Segment Anything Model (SAM)** to ROI segmentation
-- Worked on preprocessing and segmentation of fluorescence patterns
-- Optimized model inference for practical deployment
-
-
-
-
-### 🔬 Image & Vision Computing Lab. — Pukyong National University
+### Intelligent Visual Computing Lab.  
+**Pukyong National University**
 
 **Undergraduate Researcher | Mar. 2024 – Feb. 2026**
 
-Conducted undergraduate research in **computer vision and image anomaly detection**, with a particular focus on zero-shot anomaly detection using vision-language models.
+- Conducted research on image anomaly detection, with a particular focus on CLIP-based zero-shot anomaly detection and segmentation.
+- Led the development of **VCP-CLIP+**, which was published in *Electronics* as a first-author paper.
+- Participated in the development of **Tarumi**, a smart shopping cart for wheelchair users, and received an Outstanding Paper Presentation Award.
 
-- CLIP-based zero-shot anomaly detection and segmentation
-- Vision-language model adaptation
-- Cross-dataset anomaly detection
-- Research leading to the publication of **VCP-CLIP+**
+---
+
+### S-ONE BIO Corp.
+
+**Computer Vision R&D Intern | Nov. 2025 – Jan. 2026**
+
+- Participated in a national R&D project titled **“Development of an AI Video-Monitoring-Based Therapeutic Device for Lymphedema Relief and Management.”**
+- Led image-processing research for AI-based lymphatic pattern analysis using lymphatic imaging.
+- Conducted computer vision research to support the analysis and monitoring of lymphatic patterns.
 
 ---
 
@@ -106,20 +92,21 @@ Conducted undergraduate research in **computer vision and image anomaly detectio
 
 ### Toward Efficient Memory Bank-Based Anomaly Detection via Lightweight Backbone Adaptation
 
-**Junhyeok Im**, Jeonghun Cho <br>
-*2026 IEEE 15th Global Conference on Consumer Electronics (GCCE)* <br>
-**Accepted — Oral Presentation**
+**Junhyeok Im**, Jeonghun Cho  
+*2026 IEEE 15th Global Conference on Consumer Electronics (GCCE)*  
+Kobe, Japan, Oct. 2026  
+**Accepted for Oral Presentation; to appear**
 
-> An investigation of lightweight backbone adaptation for memory bank-based anomaly detection, exploring the accuracy-efficiency trade-off when replacing a conventional heavy backbone with MobileNetV3-Small.
+> A study on efficient memory bank-based anomaly detection using lightweight backbone adaptation for resource-constrained environments.
 
 ---
 
 ### VCP-CLIP+: Stabilizing and Optimizing VCP-CLIP with Minimal Architectural Changes
 
-**Junhyeok Im**, Hanhoon Park <br>
-*Electronics*, Vol. 15, 2058, 2026.
+**Junhyeok Im**, Hanhoon Park  
+*Electronics*, vol. 15, no. 10, Art. no. 2058, May 2026.
 
-> Zero-shot anomaly segmentation based on vision-language models, improving VCP-CLIP through temperature scaling, learnable anomaly-map fusion, adaptive loss weighting, and image-conditioned prompting.
+> A zero-shot anomaly detection and segmentation method that improves the stability and optimization of VCP-CLIP through minimal architectural changes.
 
 [![Paper](https://img.shields.io/badge/Paper-MDPI-00843D)](https://doi.org/10.3390/electronics15102058)
 [![Repository](https://img.shields.io/badge/Code-VCP--CLIP+-181717?logo=github)](https://github.com/augustinus2000/VCP-CLIP-plus)
@@ -128,33 +115,46 @@ Conducted undergraduate research in **computer vision and image anomaly detectio
 
 ### Smart Shopping Cart for Wheelchair Users “Tarumi”
 
-Soeun An, Gyeongheon Kim, Heeyoung Do, **Junhyeok Im**, Hanhoon Park <br>
-*2025 IEMEK ICT Undergraduate Student Paper Competition*, 2025.
+Soeun An, Gyeongheon Kim, Heeyoung Do, **Junhyeok Im**, Hanhoon Park  
+*Proceedings of the IEMEK ICT College Student Paper Competition*, pp. 112–114, Busan, Jun. 2025.  
+**Outstanding Paper Presentation Award**
 
-> An assistive smart shopping cart integrating real-time wheelchair tracking, product recognition, autonomous motor control, and a web-based shopping interface.
+> An assistive smart shopping cart combining computer vision, autonomous tracking, embedded control, and a web-based shopping interface.
 
 [![Repository](https://img.shields.io/badge/Code-Tarumi-181717?logo=github)](https://github.com/augustinus2000/Tarumi)
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Research Projects
 
 ### 🔬 VCP-CLIP+
 
-**Zero-Shot Anomaly Detection & Segmentation**
+**Zero-Shot Visual Anomaly Detection and Segmentation**
 
-Research on improving CLIP-based zero-shot anomaly detection through simple architectural modifications to VCP-CLIP.
-
-**Highlights**
+Research on stabilizing and optimizing CLIP-based zero-shot anomaly detection through minimal architectural modifications.
 
 - Vision-language model-based anomaly detection
-- Unified anomaly scoring
-- Adaptive loss weighting
-- Image-conditioned prompting
+- Zero-shot anomaly segmentation
 - Cross-dataset evaluation
+- First-author publication in *Electronics*
 
 [![Repository](https://img.shields.io/badge/View_Repository-VCP--CLIP+-181717?logo=github)](https://github.com/augustinus2000/VCP-CLIP-plus)
-[![Paper](https://img.shields.io/badge/Read-Paper-00843D)](https://doi.org/10.3390/electronics15102058)
+[![Paper](https://img.shields.io/badge/Read_Paper-MDPI-00843D)](https://doi.org/10.3390/electronics15102058)
+
+---
+
+### ⚡ MobileCLIP-AD
+
+**Lightweight Vision-Language Anomaly Detection**
+
+Ongoing research on efficient visual anomaly detection using lightweight vision-language representations.
+
+- MobileCLIP-based anomaly detection and segmentation
+- Lightweight dense feature adaptation
+- Cross-dataset generalization
+- Efficient visual representation learning
+
+[![Repository](https://img.shields.io/badge/View_Repository-MobileCLIP--AD-181717?logo=github)](https://github.com/augustinus2000/MobileCLIP-AD)
 
 ---
 
@@ -162,75 +162,32 @@ Research on improving CLIP-based zero-shot anomaly detection through simple arch
 
 **Smart Shopping Cart for Wheelchair Users**
 
-An assistive smart shopping cart combining computer vision, embedded systems, autonomous tracking, and web technologies.
+An assistive shopping cart developed to improve shopping accessibility for wheelchair users.
 
-**Highlights**
-
-- YOLO-based wheelchair and product detection
-- SORT-based user tracking
-- Raspberry Pi 5 + Arduino motor control
-- Multi-threaded real-time vision processing
+- Real-time user and product recognition
+- Autonomous user tracking
+- Embedded motor control
 - Web-based shopping interface
-- Bluetooth manual control
+- Outstanding Paper Presentation Award
 
 [![Repository](https://img.shields.io/badge/View_Repository-Tarumi-181717?logo=github)](https://github.com/augustinus2000/Tarumi)
 
 ---
 
-### ✨ GreyoDream
+## 🛠️ Technical Skills
 
-**AI-Powered Illustrated Diary for Android**
-
-An Android application that transforms written diary entries into AI-generated illustrations and stores text and images together as visual memories.
-
-**Highlights**
-
-- Native Android application in Java
-- Room Database and CRUD operations
-- Retrofit-based REST API communication
-- FastAPI image-generation backend
-- Generative AI integration
-
-[![Repository](https://img.shields.io/badge/View_Repository-GreyoDream-181717?logo=github)](https://github.com/augustinus2000/GreyoDream)
-[![Demo](https://img.shields.io/badge/Watch-Demo-FF0000)](https://github.com/augustinus2000/GreyoDream/releases/download/v1.0/GreyoDream_Demo_GitHub_HQ.mp4)
-
----
-
-## 🛠️ Tech Stack
-
-### AI / Computer Vision
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-
-### Embedded / Edge
-
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-### Application / Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- **Programming:** Python, C/C++
+- **AI / Computer Vision:** PyTorch, OpenCV, NumPy
+- **Research Areas:** Anomaly Detection, Vision-Language Models, Image Segmentation
+- **Deployment:** Raspberry Pi, Arduino, Linux
+- **Development:** Git, GitHub
 
 ---
 
 <div align="center">
 
-### Building efficient and practical computer vision systems.
+### Building efficient and generalizable visual AI systems.
 
-**Computer Vision · Anomaly Detection · Efficient AI · Edge AI**
+**Computer Vision · Anomaly Detection · Vision-Language Models · Efficient AI**
 
 </div>
