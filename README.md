@@ -186,8 +186,10 @@ An assistive shopping cart developed to improve shopping accessibility for wheel
 
 <div align="center">
 
-### Building efficient and generalizable visual AI systems.
+### Building efficient, robust, and generalizable AI systems.
 
-**Computer Vision · Anomaly Detection · Vision-Language Models · Efficient AI**
+**Anomaly Detection · Multimodal Learning · Efficient AI**
+
+</div>
 
 </div>
