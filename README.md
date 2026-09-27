@@ -43,7 +43,7 @@ Sep. 2026 – Present
 
 ### Pukyong National University
 
-**B.S. in Electronics and Communications Engineering**  
+**B.S. in Electronic Engineering**  
 Mar. 2019 – Feb. 2026
 
 ---
