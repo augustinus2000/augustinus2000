@@ -8,7 +8,7 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-jhim@knu.ac.kr-EA4335?logo=gmail&logoColor=white)](mailto:jhim@knu.ac.kr)
+[![Email](https://img.shields.io/badge/Email-jhim%40knu.ac.kr-EA4335?logo=gmail&logoColor=white)](mailto:jhim@knu.ac.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-augustinus2000-181717?logo=github&logoColor=white)](https://github.com/augustinus2000)
 
 </div>
