@@ -229,8 +229,8 @@ An Android application that transforms written diary entries into AI-generated i
 
 <div align="center">
 
-### Building efficient and practical computer vision systems.
+### Developing efficient, robust, and generalizable AI systems.
 
-**Computer Vision · Anomaly Detection · Efficient AI · Edge AI**
+**Anomaly Detection · Multimodal Learning · Efficient AI · On-DeviceAI** 
 
 </div>
