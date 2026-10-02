@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Junhyeok Im
 
+</div>
+
 ## 👨‍💻 About Me
 
 I am an M.S. student in Electronic and Electrical Engineering at **Kyungpook National University**.
@@ -51,7 +53,7 @@ Studying anomaly detection methods for detecting intrusion scenarios in automoti
 - AUTOSAR and automotive software architecture
 - Deep-Learning based Automotive Ethernet Intrusion Detection
 
-**Research Assistant | Apr. 2026 – Aug. 2026** <br>
+**Research Intern | Apr. 2026 – Aug. 2026** <br>
 Conducted research and technical studies in **efficient AI, computer vision, and embedded and automotive systems**.
 - Efficient and lightweight image anomaly detection for resource-constrained environments
 - Memory bank-based anomaly detection with lightweight backbone adaptation
