@@ -35,9 +35,7 @@ My research experience spans visual anomaly detection, vision-language models, m
 
 Graduate School of Electronic & Electrical Engineering <br>
 Architecture & Compiler for Embedded Systems Lab. (ACE Lab)
-
 <br>
-
 ### Pukyong National University
 
 **B.S. in Electronic Engineering** <br>
