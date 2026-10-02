@@ -20,9 +20,8 @@ My research experience spans visual anomaly detection, vision-language models, m
 
 - 🔍 **Visual Anomaly Detection and Segmentation**
 - 🧠 **Vision-Language Models and Multimodal Learning**
-- ⚡**Efficient and On-Device AI**
+- ⚡**Efficient and On-Device AI and Embedded AI Systems**
 - 📱 **Robust and Generalizable Computer Vision**
-- 📱 **Edge AI & Embedded AI Systems**
 - 🛠️ **Model Optimization for Resource-Constrained Systems**
 ---
 
