@@ -61,6 +61,7 @@ Conducted research and technical studies in **efficient AI, computer vision, and
 - Research leading to the acceptance of **Toward Efficient Memory Bank-Based Anomaly Detection via Lightweight Backbone Adaptation** at **IEEE GCCE 2026 (Oral Presentation)**
 
 <br>
+
 ### 🔬 Image & Vision Computing Lab. — Pukyong National University
 
 **Undergraduate Researcher | Mar. 2024 – Feb. 2026**
@@ -73,6 +74,7 @@ Conducted undergraduate research in **computer vision and image anomaly detectio
 - Research leading to the publication of **VCP-CLIP+**
 
 <br>
+
 ### 🏥 S-ONE BIO Corp.
 
 **Computer Vision R&D Intern | Nov. 2025 – Jan. 2026**
