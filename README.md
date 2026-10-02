@@ -13,6 +13,7 @@ My research interests include **anomaly detection, multimodal learning, and effi
 Before starting my master's studies, I conducted undergraduate research in computer vision and anomaly detection at **Pukyong National University**, where I received my B.S. in Electronic Engineering.
 
 My research experience spans visual anomaly detection, vision-language models, medical image analysis, and anomaly detection for automotive networks.
+
 ---
 
 ## 🔬 Research Interests
